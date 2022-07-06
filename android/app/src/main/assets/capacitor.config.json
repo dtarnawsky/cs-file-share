@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-share-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
